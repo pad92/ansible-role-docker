@@ -1,6 +1,7 @@
 # Ansible Role: Docker
 
 [![Build Status](https://travis-ci.org/geerlingguy/ansible-role-docker.svg?branch=master)](https://travis-ci.org/geerlingguy/ansible-role-docker)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fpad92%2Fansible-role-docker.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fpad92%2Fansible-role-docker?ref=badge_shield)
 
 An Ansible Role that installs [Docker](https://www.docker.com) on Linux.
 
@@ -67,6 +68,9 @@ None.
 ## License
 
 MIT / BSD
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fpad92%2Fansible-role-docker.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fpad92%2Fansible-role-docker?ref=badge_large)
 
 ## Author Information
 
